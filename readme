@@ -1,1 +1,4 @@
+These are scripts that loads bank account csv extracts into a MySQL database.
+
+Modules:
 pip install mysql-connector-python
